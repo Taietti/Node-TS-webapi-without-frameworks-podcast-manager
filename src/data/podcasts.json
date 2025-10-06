@@ -1,0 +1,56 @@
+[
+        {
+            "podcastName": "flow",
+            "episode": "Cbum - Flow #319",
+            "videoId": "pQSuQmUfS30",
+            "categories": ["Saúde", "Esporte", "Bodybuilding"]
+        },
+        {
+            "podcastName": "flow",
+            "episode": "Rubens Barrichelo - Flow #339",
+            "videoId": "4KDGTdiOV4I",
+            "categories": ["Automobilismo", "Esporte", "Corrida"]
+        },
+        {
+            "podcastName": "flow",
+            "episode": "Gaules - Flow #228",
+            "videoId": "vd_9PgOVyMk",
+            "categories": ["CS:GO", "games", "esporte"]
+        },
+        {
+            "podcastName": "balela",
+            "episode": "CELLBIT FALANDO BALELA #63",
+            "videoId": "jWLDGWfJRpo",
+            "categories": ["Enigmas", "Games", "Humor"]
+        },
+        {
+            "podcastName": "balela",
+            "episode": "LUCAS INUTILISMO FALANDO BALELA #94",
+            "videoId": "LtNsLQimmZs",
+            "categories": ["Humor", "Curiosidades", "Internet"]
+        },
+        {
+            "podcastName": "balela",
+            "episode": "GOULART FALANDO BALELA #145",
+            "videoId": "3yDvdy3gN1o",
+            "categories": ["Humor", "Games", "Internet"]
+        },
+        {
+            "podcastName": "podpah",
+            "episode": "MAX VERSTAPPEN & SERGIO PÉREZ - Podpah #841",
+            "videoId": "k7aLNa2gwIE",
+            "categories": ["Automobilismo", "Esporte", "Fórmula 1"]
+        },
+        {
+            "podcastName": "podpah",
+            "episode": "OROCHINHO - Podpah #647",
+            "videoId": "HkSLMxN4bEk",
+            "categories": ["Humor", "Internet", "Games"]
+        },
+        {
+            "podcastName": "podpah",
+            "episode": "RENATO CARIANI & JULIO BALESTRIN - Podpah #697",
+            "videoId": "wKAjYPkP90I",
+            "categories": ["Saúde", "Academia", "Bodybuilding"]
+        }
+    ]

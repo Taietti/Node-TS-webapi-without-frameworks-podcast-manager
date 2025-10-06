@@ -1,0 +1,24 @@
+{
+  "name": "podcast-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start:dist": "npm run dist && node --env-file=.env src/server.js",
+    "start:dev": "tsx --env-file=.env src/server.ts",
+    "start:dev:watch": "tsx --watch --env-file=.env src/server.ts",
+    "dist": "tsup src"
+  },
+  "keywords": [],
+  "author": "Gustavo Taietti",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.6.1",
+    "tsup": "^8.5.0",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}
